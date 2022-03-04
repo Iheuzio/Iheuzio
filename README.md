@@ -4,7 +4,7 @@
 
 - ⚡ Fun fact **Water is not wet or dry**
 
-<p><img align="center" src="https://i.pinimg.com/originals/11/6b/b6/116bb6e1f897273635c8c850baf89d59.gif" width="50%" height="5%" alt="fox go munch munch"/></P>
+<center><p><img src="https://i.pinimg.com/originals/11/6b/b6/116bb6e1f897273635c8c850baf89d59.gif" width="50%" height="5%" alt="fox go munch munch"/></p></center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
